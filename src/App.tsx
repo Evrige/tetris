@@ -9,6 +9,7 @@ function App() {
     className: ""
   };
   let dropShape;
+
   // const rows = 20
   // const columns = 10
   const generateShape = (shape: string) => {
